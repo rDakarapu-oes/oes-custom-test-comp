@@ -1,0 +1,15 @@
+{
+  "name": "adapt-oes-custom-test-comp",
+  "version": "0.0.1",
+  "framework": ">=2",
+  "description": "Please enter a description of your component here.",
+  "main": "/js/adapt-oes-custom-test-comp.js",
+  "authors": [
+    "Ravikanth Dakarapu <rDakarapu@oes.edu.au>"
+  ],
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3"
+}
