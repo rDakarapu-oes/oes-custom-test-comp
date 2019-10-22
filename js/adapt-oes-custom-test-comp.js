@@ -1,7 +1,6 @@
 define([
     "core/js/adapt",
-    "core/js/views/componentView",
-    "core/js/models/ComponentModel"
+    "core/js/views/componentView"
 ], function(Adapt, ComponentView) {
 
     var ComponentName = ComponentView.extend({

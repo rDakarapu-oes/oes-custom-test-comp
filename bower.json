@@ -1,19 +1,22 @@
 {
-  "name": "adapt-oes-custom-test-comp",
-  "version": "0.0.1",
-  "framework": ">=2",
-  "repository": "git://github.com/rDakarapu-oes/oes-custom-test-comp.git",
-  "homepage": "https://github.com/rDakarapu-oes/oes-custom-test-comp",
-  "displayName" : "OES-COMP",
-  "component" : "oes-comp",
-  "description": "Please enter a description of your component here.",
-  "main": "/js/adapt-oes-custom-test-comp.js",
-  "authors": [
-    "Ravikanth Dakarapu <rDakarapu@oes.edu.au>"
-  ],
-  "keywords": [
-    "adapt-plugin",
-    "adapt-component"
-  ],
-  "license": "GPLv3"
+    "name": "adapt-oes-custom-test-comp",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/rDakarapu-oes/oes-custom-test-comp.git"
+    },
+    "framework": ">=2",
+    "version": "0.0.1",
+    "homepage": "https://github.com/rDakarapu-oes/oes-custom-test-comp",
+    "displayName": "OES-COMP",
+    "component": "oes-comp",
+    "description": "Please enter a description of your component here.",
+    "main": "/js/adapt-oes-custom-test-comp.js",
+    "authors": [
+        "Ravikanth Dakarapu <rDakarapu@oes.edu.au>"
+    ],
+    "keywords": [
+        "adapt-plugin",
+        "adapt-component"
+    ],
+    "license": "GPLv3"
 }
