@@ -2,6 +2,9 @@
   "name": "adapt-oes-custom-test-comp",
   "version": "0.0.1",
   "framework": ">=2",
+  "homepage": "https://github.com/rDakarapu-oes/oes-custom-test-comp",
+  "displayName" : "OES-COMP",
+  "component" : "oes-comp",
   "description": "Please enter a description of your component here.",
   "main": "/js/adapt-oes-custom-test-comp.js",
   "authors": [
