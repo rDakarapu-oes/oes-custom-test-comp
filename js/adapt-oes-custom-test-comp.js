@@ -29,5 +29,5 @@ define([
         template: "oes-custom-test-comp"
     });
 
-    return Adapt.register("oes-custom-test-comp", ComponentName);
+    return Adapt.register("adapt-oes-custom-test-comp", ComponentName);
 });
