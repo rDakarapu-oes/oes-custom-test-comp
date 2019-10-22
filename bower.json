@@ -1,15 +1,15 @@
 {
     "name": "adapt-oes-custom-test-comp",
-    "type": "component",
     "repository": {
         "type": "git",
         "url": "git://github.com/rDakarapu-oes/oes-custom-test-comp.git"
     },
     "framework": ">=2",
+    "type": "component",
     "version": "0.0.1",
     "homepage": "https://github.com/rDakarapu-oes/oes-custom-test-comp",
     "displayName": "OES-COMP",
-    "component": "oes-comp",
+    "component": "adapt-oes-custom-test-comp",
     "description": "Please enter a description of your component here.",
     "main": "/js/adapt-oes-custom-test-comp.js",
     "authors": [
