@@ -1,5 +1,6 @@
 {
     "name": "adapt-oes-custom-test-comp",
+    "type": "component",
     "repository": {
         "type": "git",
         "url": "git://github.com/rDakarapu-oes/oes-custom-test-comp.git"
